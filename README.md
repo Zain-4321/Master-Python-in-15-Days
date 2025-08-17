@@ -60,5 +60,40 @@ Today I explored **variables, data types, lists, and string operations** in Pyth
 ✔ Learned how to create and use **variables** in Python  
 ✔ Practiced different **data**
 
+# 🚀 Day 02 – Variables & Data Types in Python  
+
+Welcome to **Day 02** of my **15 Days Python Mastery Challenge**! 🎉  
+Today I explored **variables, data types, lists, and string operations** in Python and solved beginner-friendly exercises.  
+
+---
+
+## 📚 Learning Resources  
+- [W3Schools – Python Variables](https://www.w3schools.com/python/python_variables.asp)  
+- [Real Python – Data Types](https://realpython.com/python-data-types/)  
+
+---
+
+## 📝 Questions Covered  
+
+1️⃣ Create variables for storing a **person's name, age, and average test score**  
+2️⃣ Concatenate **two strings** and print the result  
+3️⃣ Create a **list of fruits** and access elements using indexing  
+4️⃣ Given a list of numbers, find the **sum and average**  
+5️⃣ Convert **temperature in Celsius to Kelvin**  
+6️⃣ Check if a given **string is a palindrome**  
+7️⃣ Create a **function to reverse a string**  
+8️⃣ Given a list of names, **concatenate them into a single string** separated by spaces  
+9️⃣ Check if a string is a **pangram** (contains all letters of the alphabet)  
+🔟 Calculate the **area and circumference of a circle** given its radius  
+1️⃣1️⃣ Convert **minutes into hours and minutes**  
+1️⃣2️⃣ Create a function to **count the number of vowels** in a string  
+1️⃣3️⃣ Check if a number is **prime or not**  
+
+---
+
+## 🎯 Summary  
+
+✔ Learned how to create and use **variables** in Python  
+✔ Practiced different **data**
 
 
